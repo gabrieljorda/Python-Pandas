@@ -1,0 +1,77 @@
+{
+    "receitas": [
+        {
+            "titulo": "Bolo de chololate",
+            "tempo_preparo": "45 minutos",
+            "porcoes": 8,
+            "ingredientes": [
+                {
+                    "ingrediente": "Farinha de trigo",
+                    "quantidade": "2 xicaras"
+                },
+                {
+                    "ingrediente": "Acucar",
+                    "quantidade": "1 xicara"
+                },
+                {
+                    "ingrediente": "Ovos",
+                    "quantidade": "3 unidades"
+                },
+                {
+                    "ingrediente": "leite",
+                    "quantidade": "1 xicaras"
+                },
+                {
+                    "ingrediente": "Manteiga",
+                    "quantidade": "1/2 xicara"
+                }
+            ]
+        },
+        {
+            "titulo": "Salada Caesar",
+            "tempo_preparo": "20 minutos",
+            "porcoes": 4,
+            "ingredientes": [
+                {
+                    "ingrediente": "Alface romana",
+                    "quantidade": "1 cabeça"
+                },
+                {
+                    "ingrediente": "Croutons",
+                    "quantidade": "1 xicara"
+                },
+                {
+                    "ingrediente": "Queijo parmesao ralado",
+                    "quantidade": "1/2 xicara"
+                },
+                {
+                    "ingrediente": "Molho Caesar",
+                    "quantidade": "1/4 xicara"
+                }
+            ]
+        },
+        {
+            "titulo": "Pasta ao Pesto",
+            "tempo_preparo": "30 minutos",
+            "porcoes": 4,
+            "ingredientes": [
+                {
+                    "ingrediente": "Massa de sua escolha",
+                    "quantidade": "300g"
+                },
+                {
+                    "ingrediente": "Alho",
+                    "quantidade": "2 dentes"
+                },
+                {
+                    "ingrediente": "Pesto",
+                    "quantidade": "1/4 xicara"
+                },
+                {
+                    "ingrediente": "Queijo parmesao ralado",
+                    "quantidade": "1/2 xicara"
+                }
+            ]
+        }
+    ]
+}
