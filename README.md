@@ -13,7 +13,6 @@ O conteúdo está organizado de forma a separar **arquivos de estudo**, **projet
 - Limpeza e tratamento de dados
 - Filtragem, agregações e ordenações
 - Trabalhando com DataFrames e Series
-- Integração entre notebooks e scripts Python
 
 ---
 
